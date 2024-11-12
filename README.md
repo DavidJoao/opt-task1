@@ -1,1 +1,1 @@
-[Watch the video](https://github.com/DavidJoao/opt-task1/blob/main/assets/Demonstration.mov)
+[![Video Thumbnail](https://cxl.com/wp-content/uploads/2019/09/image3-1280x661.png)](https://github.com/DavidJoao/opt-task1/blob/main/assets/Demonstration.mp4)
