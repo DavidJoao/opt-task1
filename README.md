@@ -2,7 +2,7 @@
 
 ### Instructions:
 
-Write code in a programming language that outputs correct code in the programming language of another group, which in turn, when run, outputs the original code. For example, write a C# code that outputs JavaScript code that outputs the original C# code.In this case, I used JavaScript code, that outputs Python code, and then outputs the original JavaScript code.
+Write code in a programming language that outputs correct code in the programming language of another group, which in turn, when run, outputs the original code. For example, write a C# code that outputs JavaScript code that outputs the original C# code.
 
 ---
 
@@ -10,20 +10,23 @@ Write code in a programming language that outputs correct code in the programmin
 1. Clone the repository using "git clone" to download the repo to your local machine.
 2. Open your terminal.
 3. Navigate to the directory where you saved the repository.
-4. Execute the Node.js file "node print.js"
+4. Build the code by running "dotnet build"
+5. Run the code by running in the terminal "dotnet run"
 
 
-### Click Image to redirect to video
+# Click Image to redirect to video
 
-[![Video Thumbnail](https://cxl.com/wp-content/uploads/2019/09/image3-1280x661.png)](https://github.com/DavidJoao/opt-task1/blob/main/assets/Demonstration.mp4)
+[![Video Thumbnail](https://media2.dev.to/dynamic/image/width=1280,height=720,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fevc5hii0tf6imy642d6l.png)](https://youtu.be/uTSh1eFl2YE)
 
 Useful Links:
 
-- [Node.js Child Process: Exec Command](https://nodejs.org/api/child_process.html#child_processexeccommand-options-callback)
-- [Opening JS files with Python](https://stackoverflow.com/questions/53443351/open-a-js-file-and-edit-a-line-with-python)
+- [Using C# To communicate with Node.js](https://gist.github.com/elerch/5628117)
+- [How to Escape Curly Brackets and Special Characters in C#](https://code-maze.com/chsarp-how-to-escape-curly-brackets-and-special-characters/)
+- [Microsoft: String Interpolation Using $](https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/tokens/interpolated)
+- [How to Escape Curly Brackets and Special Characters in C#](https://code-maze.com/chsarp-how-to-escape-curly-brackets-and-special-characters/)
 
 
 Technologies Used: 
 
-- JavaScript
-- Python
+- C#
+- Node.js (Running in C#)
